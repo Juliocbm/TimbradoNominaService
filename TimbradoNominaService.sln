@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimbradoNominaService", "Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFDI.Data", "libs\Cfdi.Data\CFDI.Data.csproj", "{7D97682C-AA6B-8054-2CEB-1D395A09C359}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trucks.Data", "libs\Trucks.Data\Trucks.Data.csproj", "{3760BABB-C65C-7733-65BD-9AD46800EC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hg.Utils", "libs\Utils\Hg.Utils.csproj", "{A1FF214A-A7D2-67F0-A850-1E21D5F2D45E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3760BABB-C65C-7733-65BD-9AD46800EC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3760BABB-C65C-7733-65BD-9AD46800EC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3760BABB-C65C-7733-65BD-9AD46800EC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3760BABB-C65C-7733-65BD-9AD46800EC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FF214A-A7D2-67F0-A850-1E21D5F2D45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FF214A-A7D2-67F0-A850-1E21D5F2D45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FF214A-A7D2-67F0-A850-1E21D5F2D45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FF214A-A7D2-67F0-A850-1E21D5F2D45E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

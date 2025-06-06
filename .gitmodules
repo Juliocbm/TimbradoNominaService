@@ -1,3 +1,9 @@
 [submodule "libs/Cfdi.Data"]
 	path = libs/Cfdi.Data
 	url = https://juliocbm500@bitbucket.org/hgt_development/cfdidata-library.git
+[submodule "libs/Utils"]
+	path = libs/Utils
+	url = https://juliocbm500@bitbucket.org/hgt_development/hgutils-library.git
+[submodule "libs/Trucks.Data"]
+	path = libs/Trucks.Data
+	url = https://juliocbm500@bitbucket.org/hgt_development/trucksdata-library.git
