@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimbradoNominaService", "TimbradoNominaService.csproj", "{24445FC3-6061-4D78-8EC5-C7A706B86163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFDI.Data", "libs\Cfdi.Data\CFDI.Data.csproj", "{7D97682C-AA6B-8054-2CEB-1D395A09C359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{24445FC3-6061-4D78-8EC5-C7A706B86163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24445FC3-6061-4D78-8EC5-C7A706B86163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24445FC3-6061-4D78-8EC5-C7A706B86163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D97682C-AA6B-8054-2CEB-1D395A09C359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

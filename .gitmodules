@@ -1,0 +1,3 @@
+[submodule "libs/Cfdi.Data"]
+	path = libs/Cfdi.Data
+	url = https://juliocbm500@bitbucket.org/hgt_development/cfdidata-library.git
